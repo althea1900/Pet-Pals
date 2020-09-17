@@ -1,2 +1,2 @@
-# Pet_Pals
+# Pet-Pals
 * starter
